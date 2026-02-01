@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tsaini0408@gmail.com**
 
-- [![Tejasva's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tejas0408&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+- [![Tejasva's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejas0408&show_icons=true&theme=dark#gh-dark-mode-only)]
 
 
 <h3 align="left">Connect with me:</h3>

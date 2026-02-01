@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **tsaini0408@gmail.com**
 
+- [![Tejasva's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tejas0408&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tsaini0408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsaini0408" height="30" width="40" /></a>

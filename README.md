@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas0408&label=Profile%20views&color=0e75b6&style=flat" alt="tejas0408" /> </p>
 
-- 🔭 I’m currently working on **tulio2**
+- 🔭 I’m currently working on **Digitized_Diary**
 
-- 🌱 I’m currently learning **Next.JS, Solidity and backend systems**
+- 🌱 I’m currently learning **Next.JS, Solidity and backend systems related to AI frameworks and python libraries**
 
 - 📫 How to reach me **tsaini0408@gmail.com**
 
